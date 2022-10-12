@@ -118,5 +118,6 @@ Monday is less busy day at Company XYZ's stores
 XYZ has more female customers than male
 
 # Executive Summary.
-Can be found in 
+Can be found in [Executive-Summary.docx](https://github.com/yusmar03/Pandas-Analytics-Project/files/9764659/Executive-Summary.docx)
+
 
