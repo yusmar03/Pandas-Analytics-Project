@@ -91,24 +91,14 @@ Methods Used
 
 # Insights
 
-
-The insights I was able to uncover from analysing the dataset are as follows;
-
-   1. The total number of rows and and columns being 1000,17 respectively.
-   2. The Branch with the highest Sales record is Branch A, lagos.
-   3. The most used payment method is epay
-   4. The city with most sales is Lagos
-   5. Most used payment channel for each branch is different
-   6. Branch B has the lowest rating among the three branches
-   7. The closest thing both genders buy is in Electronic Appliances
-   8. The farthest thing both genders buy is in Home and Lifestyle
-   9. Food and beverages' products tend to bought more in bulk
-  10. Epay is the most used payment
-  11. Health and beauty' products are mostly bought by females
-  12. Fashion accessories' is the most bought product line
-  13. Branch 'A' marks the maximum branch sales
-  14. The maximum gross income coming from Port Harcourt is XYZ most frofitable city
-  15. Electronic accessories', is the product where epay is used most
+1. 'Food and beverages' products tend to bought more in bulk
+2. Epay is the most used payment
+3. 'Health and beauty' products are mostly bought by females
+4.Lagos marks the most sales
+5. Fashion accessories' is the most bought product line
+6. Branch 'A' marks the maximum branch sales
+7. The maximum gross income coming from Port Harcourt is XYZ most frofitable city
+8. 'Electronic accessories', is the product where epay is used most
 
 # Future Work
 
