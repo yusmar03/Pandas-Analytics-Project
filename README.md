@@ -94,10 +94,10 @@ Methods Used
 
 The insights I was able to uncover from analysing the dataset are as follows;
 
-   1. the total number of rows and and columns being 1000,17 respectively.
-   2. the Branch with the highest Sales record is Branch A, lagos.
-   3. the most used payment method is epay
-   4. the city with most sales is Lagos
+   1. The total number of rows and and columns being 1000,17 respectively.
+   2. The Branch with the highest Sales record is Branch A, lagos.
+   3. The most used payment method is epay
+   4. The city with most sales is Lagos
    5. Most used payment channel for each branch is different
    6. Branch B has the lowest rating among the three branches
    7. The closest thing both genders buy is in Electronic Appliances
