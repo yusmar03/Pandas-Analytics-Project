@@ -91,14 +91,21 @@ Methods Used
 
 # Insights
 
-1. 'Food and beverages' products tend to bought more in bulk
-2. Epay is the most used payment
-3. 'Health and beauty' products are mostly bought by females
-4.Lagos marks the most sales
-5. Fashion accessories' is the most bought product line
-6. Branch 'A' marks the maximum branch sales
-7. The maximum gross income coming from Port Harcourt is XYZ most frofitable city
-8. 'Electronic accessories', is the product where epay is used most
+   The insights I was able to uncover from analysing the dataset are as follows;
+
+1.  The total number of rows and and columns being 1000,17 respectively
+2.  The Highest and Lowest Sold product lines, highest in Fashion Accesories and lowest in health and beauty.
+3.  Most used payment channel for each branch is different
+4.  Branch B has the lowest rating among the three branches
+5.  The closest thing both genders buy is in Electronic Appliances
+6.  The farthest thing both genders buy is in Home and Lifestyle 
+7.  Food and beverages products tend to bought more in bulk
+8.  Epay is the most used payment method
+9.  Health and beauty' products are mostly bought by females
+10. Lagos marks the most sales
+11. Branch 'A' marks the maximum branch sales lagosq
+12. The maximum gross income coming from Port Harcourt is XYZ most frofitable city
+13. Electronic accessories', is the product where epay is used most
 
 # Future Work
 
